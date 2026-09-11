@@ -1095,8 +1095,6 @@ https://vdo3.pro-fhi.net:3663/stream/play.m3u8
 https://tvradiozap.eu/tools/hg-m3u8.php/INTELLO_AFRIK_TV#tvrz=direct&nolist&.m3u8
 #EXTINF:-1 tvg-logo="https://tv.dieskolustv.com/images/logo.png" tvg-country="Panafrique" group-title="Sociétal",Dieskolus TV
 https://tv.dieskolustv.com/live/play.m3u8
-#EXTM3U
-
 #EXTINF:-1 tvg-id="TF1.fr@SD" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="TOP 30",TF1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://145.239.5.177/301/index.m3u8
