@@ -1061,7 +1061,7 @@ https://hls.newworldtv.com/nw-info/stopRTpropagande.m3u8
 https://eggproiptv.duckdns.org:3946/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://www.diaspora-story.com/wp-content/uploads/2025/03/cropped-LOGO-DIASPORA-STORY-SANS-FOND-1.png" tvg-country="Panafrique" group-title="Divertissement",Diaspora Story (FR)
 https://vdo3.pro-fhi.net:3534/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://www.afrika7-channel.com/wp-content/uploads/2025/08/LOGO-AFRIKA7-CHANNEL-SANS-FOND-100.png" tvg-country="Panafrique" group-title="Genéraliste",A7C (FR)
+#EXTINF:-1 tvg-logo="https://www.afrika7-channel.com/wp-content/uploads/2025/08/LOGO-AFRIKA7-CHANNEL-SANS-FOND-100.png" tvg-country="Panafrique" group-title="Généraliste",A7C (FR)
 https://vdo3.pro-fhi.net:3177/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://www.diaspora-channel.com/wp-content/uploads/2020/12/13DE2A4C-28B3-43CF-9AD5-A5D7EF8A4B98.png" tvg-country="Panafrique" group-title="Généraliste",Diaspora Channel (FR)
 https://vdo3.pro-fhi.net:3218/stream/play.m3u8
