@@ -1,14 +1,10 @@
  #EXTM3U
-
-# ===== Archives =====
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/series/651fe0613099fc00084bd30e/featuredImage.jpg" tvg-country="France" group-title="Archives",INA 70
 https://fast-rakuten.okast.tv/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_ir_video1_1080p30.m3u8?bpkio_serviceid=fa2e8c4385712f9af3e719ec904b3543
 #EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2024/04/lancement-ardivision-480x270.png" tvg-country="France" group-title="Archives",INA Ardivision
 https://fast-rakuten.okast.tv/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/a4226699-b685-4f5d-9cb6-2a6cac14c377/media_.m3u8?bpkio_serviceid=fa2e8c4385712f9a3b579747e448699c
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3100003KZ_20260414T003237SQUARE.png" tvg-country="France" group-title="Archives",Show!
 https://dirlwskk64p15.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m30e2ssna24ly/v1/channel/ch-9-show-vari-t-/hls.m3u8
-
-# ===== Art de vivre =====
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/750g_logo.png/330px-750g_logo.png" tvg-country="France" group-title="Art de vivre",750G
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10839
 #EXTINF:-1 tvg-logo="https://afriquemaisonettravauxtv.bmg.ci/wp-content/uploads/2024/07/logo_site_-removebg-preview-1.png" tvg-country="Côte d’Ivoire" group-title="Art de vivre",AMT TV (CI)
@@ -25,8 +21,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7761
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12587
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1300003HM_20250811T172926SQUARE.png" tvg-country="France" group-title="Art de vivre",TV5Monde+ Chefs
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16223
-
-# ===== Cinéma =====
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR13000020W_20250819T032458SQUARE.png" tvg-country="France" group-title="Cinéma",100% Cinéma
 https://amg02162-amg02162c3-samsung-fr-8106.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02162-newenconnect-cinemachannel-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR220000105_20250617T031603SQUARE.png" tvg-country="France" group-title="Cinéma",Action Totale
@@ -97,8 +91,6 @@ https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/
 https://amg01796-amg01796c22-amgplt0030.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01796-amg01796c22-amgplt0030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fusion.molotov.tv/arts/i/446x588/Ch8SHQoUGtx_ZRxaopyLp0C7zJzbOEkUYpoSA2pwZxgBCh8IARIbChT4oSV5pd7up1uvhFfjqSRJNbNAshIDcG5n/jpg" tvg-country="France" group-title="Cinéma",Trailers
 https://amg01821-lovetvchannels-lovemagazinefr-samsungfr-3s8nt.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazinefr-samsungfr/playlist.m3u8
-
-# ===== Culture =====
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/553f926ce4b0a46bddb4baf6/1561374992682-AQP12A8997URCIOMDY5I/ARTE-seul-2.png" tvg-country="France" group-title="Culture",Arte
 https://tvradiozap.eu/tools/m3u-m3u8.php/para/arte.m3u8
 #EXTINF:-1 tvg-logo="https://tvradiozap.eu/tv/logos/eadtv.jpg" tvg-country="Congo (CG)" group-title="Culture",EàDTV (CG)
@@ -117,8 +109,6 @@ https://hls.savoir.media/live/stream.m3u8
 https://teleculturelle.vedge.infomaniak.com/livecast/teleculturelle/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvdecouverte.ch/wp-content/uploads/2022/11/Couleur_2_TVDecouverte-1024x184.png" tvg-country="Suisse" group-title="Culture",TVD (CH)
 https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8
-
-# ===== Divertissement =====
 #EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/a2e7ff28-3c0a-46dc-aabe-9ad72d6fc6d3-width200-quality90.jpeg" tvg-country="France" group-title="Divertissement",100% Comedy
 https://amg02393-amg02393c10-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02393-amg02393c10-amgplt0165/playlist.m3u8?ads_amagi_channel_id=109
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nb6bCgOzPFZaFiDWl24ghJcExUjNf8nP5CE2johTP_waoszi8MYLw0U5SLmSxjPBZg" tvg-country="Côte d’Ivoire" group-title="Divertissement",A12 (CI)
@@ -213,8 +203,6 @@ https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m
 https://haititivi.com/haiti/telemix1/index.m3u8
 #EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/wangu-rtv_1783209626.png" tvg-country="Congo (CD)" group-title="Divertissement",Wangu (CD)
 https://stream.berosat.live/hls/wangu-tv/wangu-tv.m3u8
-
-# ===== Documentaires =====
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle10920BFMGrandsreportages.jpg" tvg-country="France" group-title="Documentaires",BFM Grands Reportages
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/bf4a91c7-9a64-4071-af09-fa4646c4005d-width200-quality90.jpeg" tvg-country="France" group-title="Documentaires",Les secrets de nos régions
@@ -223,8 +211,6 @@ https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/
 https://d31lyfwi8gzfyr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ebepfdmg74kzh/RMC_MECANIC_FR.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCWowmin.jpg" tvg-country="France" group-title="Documentaires",RMC Wow
 https://d225rs9gbjxb5j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bdlabwqcrqc2n/RMC_Wow_FR.m3u8
-
-# ===== Economie =====
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/B_SMART_logo.png/330px-B_SMART_logo.png" tvg-country="France" group-title="Economie",B SMART
 https://tvradiozap.eu/tools/cof-m3u8.php/dm/x7tn4fp.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logoschaines169bfmbusinesscouleursnew.png" tvg-country="France" group-title="Economie",BFM Business
@@ -239,8 +225,6 @@ https://lnmlive.com/live/lnmtv.m3u8
 https://hls.newworldtv.com/nw-economie/video/live_3.m3u8
 #EXTINF:-1 tvg-logo="https://www.csa.be/wp-content/uploads/2009/07/Trends-Z-Blauw.png" tvg-country="Belgique" group-title="Economie",Trends Z (BE)
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
-
-# ===== Généraliste =====
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/ab/2sTV_logo.png" tvg-country="Sénégal" group-title="Généraliste",2STV (SN)
 https://tvradiozap.eu/tools/cof-m3u8.php/yt/UCeLEGbj240J6JhpP7ba8GwA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YlDFir7.jpeg" tvg-country="Sénégal" group-title="Généraliste",A2i TV (SN)
@@ -405,8 +389,6 @@ https://cdn-globecast.akamaized.net/live/eds/vision4/hls_video/index.m3u8
 https://tvradiozap.eu/tools/ac-m3u8.php/33.m3u8
 #EXTINF:-1 tvg-logo="https://www.wannel.tv/wp-content/uploads/2025/09/wannel_Logo.png" tvg-country="Sénégal" group-title="Généraliste",Wannel TV (SN)
 https://uae.iptv2022.com/sh/Wannel_TV/index.m3u8
-
-# ===== Info =====
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcl1nNR.png" tvg-country="Côte d’Ivoire" group-title="Info",7Info (CI)
 https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://afrique54.net/wp-content/uploads/2024/06/cropped-LOGO-POUR-NAVIGATEUR-300x300.png" tvg-country="Cameroun" group-title="Info",A54 (CM)
@@ -467,8 +449,6 @@ https://d161b1o6wfc5a3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://5dcabf026b188.streamlock.net/aoblive/mediainfostv/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/Voxafrica-1.png" tvg-country="Panafrique" group-title="Info",VoxAfrica (UK)
 https://1927901613.rsc.cdn77.org/1927901613/index.m3u8
-
-# ===== Jeunesse =====
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3400004L5_20251230T031031SQUARE.png" tvg-country="France" group-title="Jeunesse",100% Kidz
 https://amg02162-amg02162c4-samsung-fr-10083.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02162-newenconnect-kidschannel-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51s-YfZ2TlS.png" tvg-country="France" group-title="Jeunesse",ADN
@@ -495,14 +475,10 @@ https://d37aiu112stb78.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a5/Yu-Gi-Oh_Logo.JPG" tvg-country="Corée du Sud" group-title="Jeunesse",Yu-Gi-Oh!
 https://amg01796-amg01796c16-rakuten-fr-7493.playouts.now.amagi.tv/1080p/index.m3u8
-
-# ===== Jeux =====
 #EXTINF:-1 tvg-logo="https://static-content.rtbf.be/article/image/1248x702/3/d/d/3740c9c5a9266241f4b10deff5478baf-1633607270.jpg" tvg-country="Belgique" group-title="Jeux",iXPé (BE)
 https://tvradiozap.eu/tools/tw-m3u8.php/RTBF_iXPe.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4e/Mgg_tv.png" tvg-country="France" group-title="Jeux",MGG Esport
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
-
-# ===== Local =====
 #EXTINF:-1 tvg-logo="https://www.7alimoges.tv/photo/titre_4350949.jpg" tvg-country="France" group-title="Local",7A Limoges
 https://tvradiozap.eu/tools/cof-m3u8.php/yt/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/dd5ade_19f789617d654077a0f66846c2e75056~mv2.png" tvg-country="France" group-title="Local",Alpe d'Huez
